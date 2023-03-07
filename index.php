@@ -14,7 +14,7 @@
     <header>
         <div class="header">
             <img class="header_logo" src="/img/1.jpg" alt="logo">
-            <p class="header_text">Домашняя работа: Hello, World!</p>
+            <h2 class="header_text">Домашняя работа: Hello, World!</h2>
         </div>
 
     </header>
